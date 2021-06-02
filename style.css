@@ -1,0 +1,58 @@
+
+.words{
+    font-size: 7vh;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(193, 151, 24);
+
+}
+
+.cardz {
+bottom:10px;
+}
+.rideFood{
+    text-align: center;
+    font-style: initial;
+    font-size: 5vw;
+    color: rgba(240, 172, 26, 0.945);
+    background-color: white;
+}
+.menu{
+    font-size: 2vw;
+}
+.card-text{
+    font-size: 3vh;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(193, 151, 24);
+}
+p{
+    text-align: center; 
+}
+.waiting{
+    margin-top: 2rem;
+    width: 100%;
+}
+.absolute {
+    position: absolute;
+}
+.relative {
+    position: relative;
+}
+.header {
+    bottom: 15rem;
+    width: 75%;
+    left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+    padding: 1rem;
+    border: 5px solid white;
+    border-radius: 25px;
+}
+/* carousel */
+.size{
+    width: 10rem;
+    height: 20rem;
+
+}

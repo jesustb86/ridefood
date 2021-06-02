@@ -1,0 +1,11 @@
+
+.relative{
+    position: absolute;   
+}
+.explain{
+    text-align: center;
+    font-style: initial;
+    font-size: 5vw;
+    color: rgba(240, 172, 26, 0.945);
+    background-color: lavenderblush;
+}
